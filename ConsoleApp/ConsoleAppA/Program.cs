@@ -11,6 +11,7 @@ namespace ConsoleAppA
         static void Main(string[] args)
         {
             Console.WriteLine("Master");
+            Console.WriteLine("Slave");
         }
     }
 }
